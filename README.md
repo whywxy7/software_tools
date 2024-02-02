@@ -1,5 +1,3 @@
 # software_tools
-aaaaa
-bbbbb
-ccccc
-dddd
+git log --abbrev-commit  --pretty=oneline --graph
+
